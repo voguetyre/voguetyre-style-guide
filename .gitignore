@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+*.log
+haters/
+.idea/
+.env
+*.sublime-project
+*.sublime-workspace
+/.idea
+/.vscode
+/.vagrant
+npm-debug.log
+yarn-error.log
+
